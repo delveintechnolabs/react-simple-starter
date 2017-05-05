@@ -19,7 +19,7 @@ export default class Header extends React.Component {
               <span className="icon-bar" />
             </button>
             <a className="navbar-brand" href="#">React Simple Starter&nbsp;&nbsp;
-              [<small>To edit this component go to <code>./src/components/skeleton/Footer.js</code></small>]
+              [<small>To edit this component go to <code>./src/components/skeleton/Header.js</code></small>]
             </a>
           </div>
           <div id="navbar" className="navbar-collapse collapse">
